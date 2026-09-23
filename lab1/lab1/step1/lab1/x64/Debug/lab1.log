@@ -1,8 +1,0 @@
-﻿  my.cpp
-C:\lab1\step1\my.cpp(25,1): warning C4700: использована неинициализированная локальная переменная "n"
-C:\lab1\step1\my.cpp(30,1): warning C4700: использована неинициализированная локальная переменная "d"
-C:\lab1\step1\my.cpp(30,1): warning C4700: использована неинициализированная локальная переменная "a1"
-my.obj : error LNK2005: "double __cdecl get_nth_term(double,double,int)" (?get_nth_term@@YANNNH@Z) уже определен в ai.obj
-my.obj : error LNK2005: main уже определен в ai.obj
-MSVCRTD.lib(exe_winmain.obj) : error LNK2019: ссылка на неразрешенный внешний символ WinMain в функции "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ).
-C:\lab1\step1\x64\Debug\lab1.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
